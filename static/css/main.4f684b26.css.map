@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4f684b26.css","mappings":"AAAA,QACE,YACF,CAEA,MACE,iBACF,CAEA,OACE,aACF","sources":["App.css"],"sourcesContent":[".child1 {\n  padding: 20px;\n}\n\nlabel {\n  margin-right: 10px;\n}\n\nselect {\n  margin: 10px 0;\n}"],"names":[],"sourceRoot":""}

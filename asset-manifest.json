@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/faang-stocks/static/css/main.4f684b26.css",
+    "main.js": "/faang-stocks/static/js/main.7d31ca75.js",
+    "index.html": "/faang-stocks/index.html",
+    "main.4f684b26.css.map": "/faang-stocks/static/css/main.4f684b26.css.map",
+    "main.7d31ca75.js.map": "/faang-stocks/static/js/main.7d31ca75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f684b26.css",
+    "static/js/main.7d31ca75.js"
+  ]
+}
